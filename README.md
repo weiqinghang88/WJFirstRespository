@@ -1,8 +1,7 @@
 ## 半小时学会上传本地项目到github
 闲着无聊写给那些正在学习怎么上传本地项目到github的同学。
 
-## 开始学习
-
+## 开始学习<br>
    [创建github账号](#一、创建github账号)
    * 好吧，这步多余了。😂😂😂😂😂
 
@@ -16,20 +15,20 @@
 
 ## <a id="一、创建github账号"></a>一、创建github账号 
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)<br>
-*接着会来到这
+*  接着会来到这
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/2.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/3.png)<br>
-*然后会收到一封github发的邮件，进入邮箱验证
+*  然后会收到一封github发的邮件，进入邮箱验证
 
 ## <a id="二、创建个人仓库"></a>二、创建个人仓库
 <br>
-*验证成功是这样的
+*  验证成功是这样的
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/4.png)<br>
-*也可以来到个人中心里创建仓库<br>
+*  也可以来到个人中心里创建仓库<br>
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/5.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/6.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/7.png)<br>
-*创建完成好之后是这样子的。创建仓库的时候最好别用中文，不然你的仓库名就会显示 -  这样一条小横线。
+*  创建完成好之后是这样子的。创建仓库的时候最好别用中文，不然你的仓库名就会显示 -  这样一条小横线。
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/8.png)
 
 ## <a id="三、配置SSH keys"></a>三、配置SSH keys
