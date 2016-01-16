@@ -1,5 +1,5 @@
 ## 半小时学会上传本地项目到github
-写给那些正在学习怎么上传本地项目到github的同学。
+闲着无聊写给那些正在学习怎么上传本地项目到github的同学。
 
 ## 开始学习
    [创建github账号](#一、创建github账号)
@@ -50,7 +50,7 @@
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/11.png)
 *  接着输入指令：ls -la 查看 如果输出类似这样的信息，就说明配置成功
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/12.png)
-*  输入指令：pbcopy < ~/.ssh/id_rsa.pub  拷贝
+*  输入指令：pbcopy < ~/.ssh/id_rsapub  拷贝>>>>
 *  登陆github 进入 SSH keys 添加刚刚拷贝的东西
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/13.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/14.png)
