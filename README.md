@@ -1,26 +1,26 @@
-## 半小时学会上传本地项目到github
+# 半小时学会上传本地项目到github
 闲着无聊写给那些正在学习怎么上传本地项目到github的同学。
 
 ## 开始学习
-   [创建github账号](#一、创建github账号)
-   好吧，这步多余了。😂😂😂😂😂
+#[创建github账号](#一、创建github账号)<br>
+*  好吧，这步多余了。😂😂😂😂😂
 
-   [创建个人仓库](#二、创建个人仓库)
+#[创建个人仓库](#二、创建个人仓库)<br>
 
-   [配置SSH keys](#三、配置SSH keys)
-   使用终端进行配置
+#[配置SSH keys](#三、配置SSH keys)<br>
+*  使用终端进行配置
 
-   [上传本地项目到github上](#四、上传本地项目到github上)
-   使用[github客户端](https://desktop.github.com)进行上传
+#[上传本地项目到github上](#四、上传本地项目到github上)
+*  使用[github客户端](https://desktop.github.com)进行上传
 
-## <a id="一、创建github账号"></a>一、创建github账号 
+# <a id="一、创建github账号"></a>一、创建github账号 
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)<br>
 *  接着会来到这
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/2.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/3.png)<br>
 *  然后会收到一封github发的邮件，进入邮箱验证
 
-## <a id="二、创建个人仓库"></a>二、创建个人仓库
+# <a id="二、创建个人仓库"></a>二、创建个人仓库
 <br>
 *  验证成功是这样的
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/4.png)<br>
@@ -31,7 +31,7 @@
 *  创建完成好之后是这样子的。创建仓库的时候最好别用中文，不然你的仓库名就会显示 -  这样一条小横线。
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/8.png)
 
-## <a id="三、配置SSH keys"></a>三、配置SSH keys
+# <a id="三、配置SSH keys"></a>三、配置SSH keys
 *  终端里输入显示隐藏文件：defaults write com.apple.finder AppleShowAllFiles -bool true  
 *  关闭：defaults write com.apple.finder AppleShowAllFiles -bool true  
    输入命令完成之后需要重启Finder 桌面顶部苹果logo->强制退出->
@@ -58,7 +58,7 @@
 
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/16.png)
 
-## <a id="四、上传本地项目到github上"></a>四、上传本地项目到github上
+# <a id="四、上传本地项目到github上"></a>四、上传本地项目到github上
 *  上传项目，这里我是用的是[github客户端](https://desktop.github.com)
 *  下载好之后输入用户名 邮箱 密码登陆之后clone刚创建的仓库到本地
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/17.png)
@@ -70,4 +70,4 @@
 *  提交完成之后到仓库的首页刷新即可看到上传成功！
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/21.png)<br>
 
-## 恭喜你，已经成功的创建一个属于自己的github仓库了
+# 恭喜你，已经成功的创建一个属于自己的github仓库了
