@@ -15,19 +15,20 @@
    * 使用[github客户端](https://desktop.github.com)进行上传
 
 ## <a id="一、创建github账号"></a>一、创建github账号 
-![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)
+![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)<br>
 *接着会来到这
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/2.png)
-![image](https://github.com/bringbird/myFirstRespository/raw/master/image/3.png)
+![image](https://github.com/bringbird/myFirstRespository/raw/master/image/3.png)<br>
 *然后会收到一封github发的邮件，进入邮箱验证
 
 ## <a id="二、创建个人仓库"></a>二、创建个人仓库
+<br>
 *验证成功是这样的
-![image](https://github.com/bringbird/myFirstRespository/raw/master/image/4.png)
-*也可以来到个人中心里创建仓库
+![image](https://github.com/bringbird/myFirstRespository/raw/master/image/4.png)<br>
+*也可以来到个人中心里创建仓库<br>
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/5.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/6.png)
-![image](https://github.com/bringbird/myFirstRespository/raw/master/image/7.png)
+![image](https://github.com/bringbird/myFirstRespository/raw/master/image/7.png)<br>
 *创建完成好之后是这样子的。创建仓库的时候最好别用中文，不然你的仓库名就会显示 -  这样一条小横线。
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/8.png)
 
@@ -46,7 +47,7 @@
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/11.png)
 *  接着输入指令：ls -la 查看 如果输出类似这样的信息，就说明配置成功
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/12.png)
-*  输入指令：pbcopy < ~/.ssh/id_rsapub  拷贝>>>>
+*  输入指令：pbcopy < ~/.ssh/id_rsapub  拷贝<br>
 *  登陆github 进入 SSH keys 添加刚刚拷贝的东西
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/13.png)
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/14.png)
@@ -68,5 +69,6 @@
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/19.png)
 *  然后点击右上角的![image](https://github.com/bringbird/myFirstRespository/raw/master/image/20.png)按钮
 *  提交完成之后到仓库的首页刷新即可看到上传成功！
-![image](https://github.com/bringbird/myFirstRespository/raw/master/image/21.png)
+![image](https://github.com/bringbird/myFirstRespository/raw/master/image/21.png)<br>
+
 ## 恭喜你，已经成功的创建一个属于自己的github仓库了
