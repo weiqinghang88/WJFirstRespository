@@ -1,17 +1,17 @@
 ## 半小时学会上传本地项目到github
 闲着无聊写给那些正在学习怎么上传本地项目到github的同学。
 
-## 开始学习<br>
+## 开始学习
    [创建github账号](#一、创建github账号)
-   * 好吧，这步多余了。😂😂😂😂😂
+   好吧，这步多余了。😂😂😂😂😂
 
    [创建个人仓库](#二、创建个人仓库)
 
    [配置SSH keys](#三、配置SSH keys)
-   * 使用终端进行配置
+   使用终端进行配置
 
    [上传本地项目到github上](#四、上传本地项目到github上)
-   * 使用[github客户端](https://desktop.github.com)进行上传
+   使用[github客户端](https://desktop.github.com)进行上传
 
 ## <a id="一、创建github账号"></a>一、创建github账号 
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/1.png)<br>
