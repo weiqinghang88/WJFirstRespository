@@ -66,4 +66,4 @@
 #####提交完成之后到仓库的首页刷新即可看到上传成功！
 ![image](https://github.com/bringbird/myFirstRespository/raw/master/image/21.png)<br>
 
-# 恭喜你，已经成功的创建一个属于自己的github仓库了
+# 恭喜你，已经成功的上传项目到自己的github仓库了
