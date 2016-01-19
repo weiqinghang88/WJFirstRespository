@@ -1,7 +1,6 @@
 # 半小时学会上传本地项目到github
 ####闲着无聊写给那些正在学习怎么上传本地项目到github的同学。
-# 👇👇👇👇👇加入我们👇👇👇👇👇 
-![image](https://github.com/bringbird/WJTouchID/raw/master/11.png)
+
 #开始学习
 ###[一、创建github账号](#一、创建github账号)<br>
 ######好吧，这步多余了。😂😂😂😂😂
